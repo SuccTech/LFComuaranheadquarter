@@ -1,0 +1,17 @@
+h2 {
+    color: red;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: aqua;
+}
+
+.para2 {
+    animation: alternate-reverse;
+    margin-left: 10px;
+    font-size: larger;
+    font-style: normal;
+    color: green;
+}
